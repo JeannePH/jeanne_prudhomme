@@ -28,7 +28,7 @@
 
 ## Diplômes et Formations
 
-- **Développement Full-Stack - Java et Angular** – [OpenClassroom](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular) *(oct 2025 – oct 2026)*  
+- **Développement Full-Stack - Java et Angular** – OpenClassroom *(oct 2025 – oct 2026)*  
   RNCP36912 – Niveau 7
 
 - **Conception Développement d’Application** – CEFIM *(oct 2024 – oct 2025)*  
