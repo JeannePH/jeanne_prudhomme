@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="jeanne-prudhomme.vcf" download>
-    <button>✚ Ajouter à mes contacts</button>
+    <button>✚ Ajouter le contact</button>
   </a>
 </p>  
   
