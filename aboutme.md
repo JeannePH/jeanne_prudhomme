@@ -5,7 +5,7 @@
 
 Je recherche une **entreprise pour m'accueillir pour 12 mois**. Le temps d'une formation avec [openclassroom](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular#path_diploma) pour me spécialiser sur la stack **Java / Angular**.
 
-Je vais quitter une entreprise qui m’a fait confiance pendant 3 ans, qui m’a accompagné en alternance durant toute ma reconversion.
+J'ai quitté une entreprise qui m’a fait confiance pendant 3 ans, qui m’a accompagné en alternance durant toute ma reconversion.
 
 J’ai commencé par une formation sur les outils "nocode", où j’ai appris les bases de la syntaxe du code, de l’algorithmie, de l’architecture logicielle, des bases de données.
 
