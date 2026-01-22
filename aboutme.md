@@ -7,9 +7,9 @@ Je recherche une **entreprise pour m'accueillir pour 12 mois**. Le temps d'une f
 
 Je vais quitter une entreprise qui m’a fait confiance pendant 3 ans, qui m’a accompagné en alternance durant toute ma reconversion.
 
-J’ai commencé par une formation sur les outils "nocode", où j’ai appris les bases de la syntaxe du code, de l’algorithmie, de l’architecture logicielle, des bases de données... 
+J’ai commencé par une formation sur les outils "nocode", où j’ai appris les bases de la syntaxe du code, de l’algorithmie, de l’architecture logicielle, des bases de données.
 
-Et puis j’ai voulu continuer à apprendre le développement web.
+Et puis j’ai voulu approfondir mon apprentissage du développement web.
 
 Alors j’ai continué à me former et j’ai intégré le **CEFIM**, où j’ai passé mon titre de **Développeuse Web & Web Mobile**.
 
